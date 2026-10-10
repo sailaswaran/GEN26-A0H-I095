@@ -4,7 +4,7 @@
 ### Team Details
 #### **Team Name** SIX-SEVEN <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Hostel / Day scholar | 
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | 
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |           SRI SAILASWARAN A(              |      CB.EN.U4EEE25044                  |     Male         |       EEE                       |  
 |    Member 2     |                SURYA V         |            CB.EN.U4EEE25049            |        Male       |                   EEE              |  
